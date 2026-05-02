@@ -8,9 +8,9 @@ Built this to stop relying on cloud storage and actually own my data. Runs on re
 
 | Component | Spec |
 |-----------|------|
-| Machine | Lenovo [model] |
-| RAM | [X] GB |
-| Storage | [X] TB HDD / [X] GB SSD (OS) |
+| Machine | Lenovo ThinkCentre M83 (10A8S1MA00) |
+| RAM | 12GB DDR3 |
+| Storage | [0.5 (As of now)] TB HDD / [128] GB SSD (OS) |
 | Network | Gigabit Ethernet |
 
 ---
